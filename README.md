@@ -1,10 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ineelhere&color=red) `<div class="container">`
-  `<br>`
-
-
-![](https://komarev.com/ghpvc/?username=ineelhere&color=red) `<div class="container">`
-  `<br>`
-
+![](https://komarev.com/ghpvc/?username=ineelhere&color=red) 
 <p align='center'>
     <strong> Hi, I'm Indraneel Chakraborty! 👨‍💻 </strong>
   </p>
