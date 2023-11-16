@@ -1,22 +1,16 @@
-![](https://komarev.com/ghpvc/?username=ineelhere&color=red) <div class="container">
-  <br>
-  <p align='center'>
+![](https://komarev.com/ghpvc/?username=ineelhere&color=red) `<div class="container">`
+  `<br>`
+
+
+![](https://komarev.com/ghpvc/?username=ineelhere&color=red) `<div class="container">`
+  `<br>`
+
+<p align='center'>
     <strong> Hi, I'm Indraneel Chakraborty! 👨‍💻 </strong>
   </p>
-  <p align='center'>Solving problems using code-first and data centric approaches on cloud with devOps principles! <br>
-    <br>
-    <i>
-      R/Shiny Developer at <a href="https://appsilon.com" target="_blank">Appsilon.</a> <br>
-      Open Source Creator Community member at  <a href="https://streamlit.io/creators" target="_blank">Streamlit.</a> <br>
-      Volunteer Lesson Maintainer at <a href="https://carpentries.org/" target="_blank">The Carpentries</a>. <br>
-      Volunteer Technical Reviewer at <a href="https://www.packtpub.com/" target="_blank">Packt Publishing</a>. <br>
-      Managed Network Expert (Freelance) in Biology at <a href="https://www.chegg.com/" target="_blank">Chegg</a>. <br>
-      Former Senior Bioinformatics Engineer at <a href="https://elucidata.io/" target="_blank">Elucidata</a>. <br>
-      Former Research Assistant at <a href="https://www.ibab.ac.in/" target="_blank">Institute of Bioinformatics and Applied Biotechnology</a>. <br>
-    </i>
+  <p align='center'> A software <code>developer</code> and data <code>researcher</code> with a background in <code>Bioinformatics</code>; <br> solving problems using code-first and data-centric approaches on the <code>cloud</code> with <code>DevOps</code> principles!
   </p>
   <h6 class="jumbotron-heading" align='center'>
-    <br>
     <a href="mailto:hello.indraneel@gmail.com" target="_blank">
       <img src="https://freepngimg.com/save-icon/66407-account-icons-wallpaper-desktop-computer-in-sign/512x512" alt="gmail" width="32" height="32">
     </a>
@@ -27,7 +21,7 @@
     </a>
     <a href="https://twitter.com/ineelhere" target="_blank">
       <img src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter" width="32" height="32">
-    </a>    
+    </a>  
     <a href="https://github.com/ineelhere" target="_blank">
       <img width="32" height="32" src="https://github.com/fluidicon.png" alt="Github">
     </a>
@@ -39,6 +33,7 @@
     </a>
   </h6>
   <br>
+
 
 </div>
 </section>
