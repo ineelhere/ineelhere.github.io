@@ -1,3 +1,20 @@
-.circular--square { border-radius: 100%; } #myVideo { position: fixed; top: 50%; left: 50%; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; transform: translate(-50%, -50%); }
-.jumbotron-heading { font-family: 'Slabo 27px', serif;}
-.lead {font-family: 'Unna', serif;}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.circular--square {
+    border-radius: 100%;
+}
+
+.jumbotron-heading,
+.lead {
+    font-family: 'Unna', serif;
+}
+
+a {
+    text-decoration: none;
+}
