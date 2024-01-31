@@ -2,19 +2,32 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin: 0;
+    padding-top: 20px;
 }
 
 .circular--square {
-    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%; /* Adjusted to 50% for a circular shape */
 }
 
-.jumbotron-heading,
+.jumbotron-heading {
+    font-family: 'Unna', serif;
+    font-size: 2rem; /* Adjust the size as needed */
+}
+
 .lead {
     font-family: 'Unna', serif;
+    font-size: 1.25rem; /* Adjust the size as needed */
 }
 
 a {
     text-decoration: none;
 }
+
+a:hover {
+    color: #007bff; /* Change to your desired hover color */
+}
+
