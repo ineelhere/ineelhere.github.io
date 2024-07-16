@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Indraneel Chakraborty",
+    "section": "",
+    "text": "A software developer and data researcher with a background in Bioinformatics; solving problems using code-first and data-centric approaches on the cloud with DevOps principles!"
+  },
+  {
+    "objectID": "index.html#my-works",
+    "href": "index.html#my-works",
+    "title": "Indraneel Chakraborty",
+    "section": "My Works",
+    "text": "My Works\n\nR package to connect and interact with clinicalTrials.Gov data via the AACT database 🛢️📊\nPython package that simplifies creating Streamlit applications by offering features like initiating projects with starter app templates and functions for managing running apps 😎\nCode With Go - Learning to code using Go with examples\nCurated - Curating awesome resources for learning awesome skills\nIndia Fights COVID19 (IFC19) - Dashboard\nBuilding Systems with the ChatGPT API\n\n… and many more."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

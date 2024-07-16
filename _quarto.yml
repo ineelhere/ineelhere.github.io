@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ineelhere
+  favicon: https://avatars.githubusercontent.com/u/64887729?s=400&u=40e71989e22bc957112998e86ecebb982d55e74f&v=4
+  navbar:
+    logo: https://yt3.googleusercontent.com/COcDOdM34eRf7LXZns3q09aIURGSxeE4FI0W2qTqXD9eoyjUVExPmosmnSlcrEknimPlbNj4CNo=s160-c-k-c0x00ffffff-no-rj
+    left:
+      - href: index.qmd
+        text: Home
+      # - href: about.qmd
+      #   text: About
+    right:
+      - icon: github
+        href: https://github.com/ineelhere
+        aria-label: GitHub
+      - icon: twitter
+        href: https://twitter.com/ineehere
+        aria-label: Twitter
+  page-footer:
+    left: © 2024 Indraneel Chakraborty. All rights reserved.
+    right:
+      - icon: github
+        href: https://github.com/ineelhere/
+      - icon: twitter
+        href: https://x.com/ineelhere
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    highlight-style: github

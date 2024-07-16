@@ -1,0 +1,35 @@
+---
+title: "Indraneel Chakraborty"
+subtitle: "Developer | Bioinformatician | Open Source Enthusiast"
+format:
+  html:
+    page-layout: full
+    css: styles.css
+---
+<img class="circular--square" src="https://avatars.githubusercontent.com/u/64887729?s=400&u=40e71989e22bc957112998e86ecebb982d55e74f&v=4" alt="" height="200" width="200">
+
+A software **developer** and data **researcher** with a background in **Bioinformatics**;
+solving problems using code-first and data-centric approaches on the **cloud** with **DevOps** principles!
+
+**My Works**
+---------
+* [R package to connect and interact with clinicalTrials.Gov data via the AACT database 🛢️📊](https://github.com/ineelhere/aactr)
+* [Python package that simplifies creating Streamlit applications by offering features like initiating projects with starter app templates and functions for managing running apps 😎](https://pypi.org/project/startlit/)
+* [Code With Go - Learning to code using Go with examples](https://ineelhere.gitbook.io/code-with-go/)
+* [Curated - Curating awesome resources for learning awesome skills](https://curated.streamlit.app/)
+* [India Fights COVID19 (IFC19) - Dashboard](https://indiafightscovid19.streamlit.app/)
+* [Building Systems with the ChatGPT API](https://ineelhere.github.io/Building-Systems-with-the-ChatGPT-API/)
+
+... and many more.
+
+<img src="http://ghchart.rshah.org/ineelhere" alt="Indraneel's Github chart" style="max-width: 100%; height: auto;" />
+
+<p class="jumbotron-heading" align="left">
+            <a href="mailto:hello.indraneel@gmail.com" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="gmail" width="32" height="32"></a>
+            <a href="https://www.linkedin.com/in/indraneelchakraborty/" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="Linkedin" width="32" height="32"></a>
+            <a href="https://sites.google.com/view/indraneelchakraborty" target="_blank"></a>
+            <a href="https://twitter.com/ineelhere" target="_blank"><img src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter" width="32" height="32"></a>
+            <a href="https://github.com/ineelhere" target="_blank"><img width="32" height="32" src="https://github.com/fluidicon.png" alt="Github"></a>
+            <a href="https://indraneel.hashnode.dev/" target="_blank"><img width="32" height="32" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode"></a>
+            <a href="https://www.youtube.com/channel/UCbIMzl7rOj0FkamVf_aBM8w" target="_blank"><img src="https://www.youtube.com/s/desktop/28b67e7f/img/favicon_48.png" alt="YouTube" width="32" height="32"></a>
+        </p>
