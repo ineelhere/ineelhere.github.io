@@ -12,8 +12,8 @@ A software **developer** and data **researcher** with a background in **Bioinfor
 solving problems using code-first and data-centric approaches on the **cloud** with **DevOps** principles!
 
 **My Works**
----------
-* [R package to connect and interact with clinicalTrials.Gov data via the AACT database 🛢️📊](https://github.com/ineelhere/aactr)
+
+* [R package to fetch and explore clinical trials data from freely available registries. Currently, it supports the ClinicalTrials.gov registry and CTTI AACT (Access to Aggregate Content of ClinicalTrials.gov)](https://ineelhere.github.io/clintrialx/)
 * [Python package that simplifies creating Streamlit applications by offering features like initiating projects with starter app templates and functions for managing running apps 😎](https://pypi.org/project/startlit/)
 * [Code With Go - Learning to code using Go with examples](https://ineelhere.gitbook.io/code-with-go/)
 * [Curated - Curating awesome resources for learning awesome skills](https://curated.streamlit.app/)
