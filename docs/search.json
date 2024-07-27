@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Indraneel Chakraborty",
     "section": "",
-    "text": "A software developer and data researcher with a background in Bioinformatics; solving problems using code-first and data-centric approaches on the cloud with DevOps principles!"
+    "text": "A software developer and data researcher with a background in Bioinformatics; solving problems using code-first and data-centric approaches on the cloud with DevOps principles!\nMy Works\n\nR package to fetch and explore clinical trials data from freely available registries. Currently, it supports the ClinicalTrials.gov registry and CTTI AACT (Access to Aggregate Content of ClinicalTrials.gov).\nPython package that simplifies creating Streamlit applications by offering features like initiating projects with starter app templates and functions for managing running apps 😎\nCode With Go - Learning to code using Go with examples\nCurated - Curating awesome resources for learning awesome skills\nIndia Fights COVID19 (IFC19) - Dashboard\nBuilding Systems with the ChatGPT API\n\n… and many more."
   },
   {
     "objectID": "index.html#my-works",
