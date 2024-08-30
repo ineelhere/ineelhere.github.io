@@ -26,7 +26,7 @@ solving problems using code-first and data-centric approaches on the **cloud** w
 
 <p class="jumbotron-heading" align="left">
             <a href="mailto:hello.indraneel@gmail.com" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="gmail" width="32" height="32"></a>
-            <a href="https://www.linkedin.com/in/indraneelchakraborty/" target="_blank"><img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="Linkedin" width="32" height="32"></a>
+            <a href="https://www.linkedin.com/in/indraneelchakraborty/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="Linkedin" width="32" height="32"></a>
             <a href="https://sites.google.com/view/indraneelchakraborty" target="_blank"></a>
             <a href="https://twitter.com/ineelhere" target="_blank"><img src="https://abs.twimg.com/favicons/twitter.ico" alt="Twitter" width="32" height="32"></a>
             <a href="https://github.com/ineelhere" target="_blank"><img width="32" height="32" src="https://github.com/fluidicon.png" alt="Github"></a>
