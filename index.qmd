@@ -13,14 +13,16 @@ solving problems using code-first and data-centric approaches on the **cloud** w
 
 **My Works**
 
-* [R package to fetch and explore clinical trials data from freely available registries. Currently, it supports the ClinicalTrials.gov registry and CTTI AACT (Access to Aggregate Content of ClinicalTrials.gov)](https://ineelhere.github.io/clintrialx/)
-* [Python package that simplifies creating Streamlit applications by offering features like initiating projects with starter app templates and functions for managing running apps 😎](https://pypi.org/project/startlit/)
-* [Code With Go - Learning to code using Go with examples](https://ineelhere.gitbook.io/code-with-go/)
-* [Curated - Curating awesome resources for learning awesome skills](https://curated.streamlit.app/)
-* [India Fights COVID19 (IFC19) - Dashboard](https://indiafightscovid19.streamlit.app/)
-* [Building Systems with the ChatGPT API](https://ineelhere.github.io/Building-Systems-with-the-ChatGPT-API/)
+| Project                                      | Description                                   | URL                                                                                                     |
+|----------------------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| ClintrialX                                   | R package to fetch and explore clinical trials data from freely available registries and build html interactive reports; Published on CRAN            | [https://cran.r-project.org/package=clintrialx](https://cran.r-project.org/package=clintrialx)                       |
+| Startlit                                     | Python package that simplifies creating Streamlit applications by offering features like initiating projects with starter app templates and functions for managing running apps; Available on PyPI               | [https://pypi.org/project/startlit/](https://pypi.org/project/startlit/)                                 |
+| Code With Go                                 | Learn Go with examples                        | [https://ineelhere.gitbook.io/code-with-go/](https://ineelhere.gitbook.io/code-with-go/)                 |
+| Curated                                      | Curated learning resources                    | [https://curated.streamlit.app/](https://curated.streamlit.app/)                                         |
+| India Fights COVID19                         | COVID-19 dashboard for India                  | [https://indiafightscovid19.streamlit.app/](https://indiafightscovid19.streamlit.app/)                   |
+| Building Systems with ChatGPT API            | Guide on ChatGPT API integrations             | [https://ineelhere.github.io/Building-Systems-with-the-ChatGPT-API/](https://ineelhere.github.io/Building-Systems-with-the-ChatGPT-API/) |
 
-... and many more.
+... and many more. [![Email Me](https://img.shields.io/badge/Email-Me-blue)](mailto:hello.indraneel@gmail.com)
 
 <img src="http://ghchart.rshah.org/ineelhere" alt="Indraneel's Github chart" style="max-width: 100%; height: auto;" />
 
