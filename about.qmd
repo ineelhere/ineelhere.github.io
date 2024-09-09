@@ -1,5 +1,37 @@
 ---
-title: "About"
+title: "About Me"
+format: 
+  html:
+    toc: true
+    toc-location: right
+    fontfamily: "Arial, sans-serif"
 ---
 
-About this site
+Hey there! I'm Indraneel from India — a software engineer and data-driven researcher passionate about building things and solving problems. I've worked extensively with `R`, `Python`, and `Bash`, leveraging a wide range of tools and technologies to tackle complex challenges.
+
+In `R`, I specialize in building interactive web applications using `{Shiny}`, with strong proficiency in the `{tidyverse}` suite, including `{dplyr}` for data manipulation and `{ggplot2}` for data visualization. I've developed custom packages like `{clintrialx}` ([clintrialx](https://cran.r-project.org/package=clintrialx)) and worked with complex datasets such as single-cell sequencing data, utilizing `{Seurat}` and `{Signac}`. My expertise extends to implementing reactive programming principles, enabling the creation of user-friendly `{Shiny}` applications that respond seamlessly to user inputs. Additionally, I have solid experience in package development, testing, and documentation using tools like `{testthat}`, `{pkgdown}`, `{devtools}`, and `{roxygen2}`.
+
+In `Python`, I've worked with popular libraries like `Pandas` for data manipulation, `Matplotlib` and `Plotly` for data visualization, and `Streamlit` for building interactive web applications. I've also delved into web development using `Django` and `Flask`, leveraging my knowledge of `HTML`, `CSS`, and `JavaScript`. I'm comfortable working with cloud services, particularly `AWS`, and have experience with containerization using `Docker` and orchestration with `Kubernetes`.
+
+I enjoy bringing people together and finding creative solutions, whether working on a small-scale project or as part of a larger team. In my free time, you can find me tinkering with new technologies, contributing to open-source projects, or performing technical reviews for yet-to-be-published technical books. I'm always up for a challenge and finding new ways to improve — making a real impact.
+
+Let's connect and see what we can create together! You can reach me at hello.indraneel@gmail.com
+
+## Skills Overview
+
+| **Category**                      | **Skills**                                                                                           |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+| Programming Languages              | `R`, `Python`, `Bash`, `SQL`                                                                         |
+| R Ecosystem                        | `Shiny`, `Rhino`, `RSQLite`, `dplyr`, `ggplot2`, `echarts4r`, `Seurat`, `Signac`, `testthat`, `pkgdown`, `roxygen2`, `devtools`, `renv`, [`clintrialx`](https://cran.r-project.org/package=clintrialx)(*self developed*) |
+| Python Ecosystem                   | `Streamlit`, `Pandas`, `Matplotlib`, `Plotly`, `Django`, `Flask`, `Ollama`                            |
+| Web Development                    | `HTML`, `CSS`, `Bootstrap`, `JavaScript`                                                             |
+| Operating Systems                  | `Linux` (Ubuntu), `Windows`, `Mac`                                                                   |
+| Version Control                    | `Git`, `GitHub`, `GitLab`, `BitBucket`                                                               |
+| Containerization & Orchestration   | `Docker`, `Kubernetes` (basic)                                                                       |
+| CI/CD                              | `GitHub Workflows`, `CircleCI`                                                                       |
+| Workflow Management                | `Nextflow`                                                                                           |
+| Collaboration Tools                | `Atlassian Suite` (Bitbucket, Jira, Confluence, Trello), `ClickUp`, `Notion`                         |
+| Cloud Services                     | `AWS` (EC2, S3, EBS, EFS, ECR, IAM, DynamoDB, CodeDeploy, CodePipeline)                              |
+| Platforms                          | `VS Code`, `RStudio`, `Jupyter Notebooks`                                                            |
+| Generative AI                      | `ChatGPT`, `Claude`, `Gemini`, `Ollama`, `Local LLM API`, `OpenAI API`                               |
+| Productivity Suites                | `Google Suite`, `Microsoft Office`                                                                   |
