@@ -4,7 +4,6 @@ format:
   html:
     toc: true
     toc-location: right
-    css: styles.css # You can include custom CSS for further styling
     fontfamily: "Arial, sans-serif"
 ---
 
