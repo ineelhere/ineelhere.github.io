@@ -9,8 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      # - href: about.qmd
-      #   text: About
+      - href: about.qmd
+        text: About
     right:
       - icon: github
         href: https://github.com/ineelhere
