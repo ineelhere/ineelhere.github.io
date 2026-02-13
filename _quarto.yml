@@ -11,6 +11,26 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - text: Projects
+        menu:
+          - text: ClintrialX
+            href: https://cran.r-project.org/package=clintrialx
+          - text: 30 Days of Pharmaverse
+            href: https://ineelhere.github.io/30-days-of-pharmaverse
+          - text: 30 Days of AI - Streamlit
+            href: https://github.com/ineelhere/30DaysOfAI-Streamlit
+          - text: shiny.emojirain
+            href: https://github.com/ineelhere/shiny.emojirain
+          - text: shiny.ollama
+            href: https://github.com/ineelhere/shiny.ollama/
+          - text: Building Systems with ChatGPT API
+            href: https://ineelhere.github.io/Building-Systems-with-the-ChatGPT-API/
+          - text: Code With Go
+            href: https://ineelhere.gitbook.io/code-with-go/
+          - text: Curated
+            href: https://curated.streamlit.app/
+          - text: India Fights COVID19
+            href: https://indiafightscovid19.streamlit.app/
     right:
       - icon: github
         href: https://github.com/ineelhere
