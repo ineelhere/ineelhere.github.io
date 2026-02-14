@@ -28,4 +28,3 @@
   </h6>
   <br>
 
-Note: The workflow file `.github/workflows/deploy-quarto.yml` has been updated to use `actions/upload-pages-artifact@v3` and now installs Quarto dependencies in addition to `rmarkdown` and `knitr`.
