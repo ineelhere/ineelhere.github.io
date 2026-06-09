@@ -9,7 +9,7 @@
       <img src="https://freepngimg.com/save-icon/66407-account-icons-wallpaper-desktop-computer-in-sign/512x512" alt="gmail" width="32" height="32">
     </a>
     <a href="https://www.linkedin.com/in/indraneelchakraborty/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="Linkedin" width="32" height="32">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" width="32" height="32">
     </a>
     <a href="https://sites.google.com/view/indraneelchakraborty" target="_blank">
     </a>
