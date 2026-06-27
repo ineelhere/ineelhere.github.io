@@ -13,16 +13,20 @@ website:
         text: About
       - text: Projects
         menu:
-          - text: ClintrialX
+          - text: llmshieldr
+            href: https://cloud.r-project.org/package=llmshieldr
+          - text: clintrialx
             href: https://cran.r-project.org/package=clintrialx
           - text: 30 Days of Pharmaverse
-            href: https://ineelhere.github.io/30-days-of-pharmaverse
+            href: https://indraneelchakraborty.com/30-days-of-pharmaverse/
           - text: 30 Days of AI - Streamlit
             href: https://github.com/ineelhere/30DaysOfAI-Streamlit
           - text: shiny.emojirain
             href: https://github.com/ineelhere/shiny.emojirain
           - text: shiny.ollama
             href: https://github.com/ineelhere/shiny.ollama/
+          - text: StartLit
+            href: https://pypi.org/project/startlit/
           - text: Building Systems with ChatGPT API
             href: https://ineelhere.github.io/Building-Systems-with-the-ChatGPT-API/
           - text: Code With Go
@@ -36,7 +40,7 @@ website:
         href: https://github.com/ineelhere
         aria-label: GitHub
       - icon: twitter
-        href: https://twitter.com/ineehere
+        href: https://x.com/ineelhere
         aria-label: Twitter
   page-footer:
     left: © 2026 Indraneel Chakraborty. All rights reserved.
